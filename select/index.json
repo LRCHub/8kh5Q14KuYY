@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Close To You feat. 舞花",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-22T17:07:09.035055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Close to You (feat. RJZ)",
+      "artist": "DarkoVibes",
+      "has_synced": true,
+      "path": "select/01_Close_to_You_(feat._RJZ)_DarkoVibes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Close to You (feat. sunwoojunga)",
+      "artist": "oceanfromtheblue & sunwoojunga",
+      "has_synced": true,
+      "path": "select/02_Close_to_You_(feat._sunwoojunga)_oceanfromtheblue_&_sunwoojunga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Close To You (feat. T-Pain)",
+      "artist": "Dreezy",
+      "has_synced": true,
+      "path": "select/03_Close_To_You_(feat._T-Pain)_Dreezy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Close To You (feat. T-Pain)",
+      "artist": "Dreezy",
+      "has_synced": true,
+      "path": "select/04_Close_To_You_(feat._T-Pain)_Dreezy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Close To You feat. 舞花",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/05_Close_To_You_feat._舞花_LGYankees.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Close To You (feat. Mýa)",
+      "artist": "Dionne Warwick",
+      "has_synced": true,
+      "path": "select/06_Close_To_You_(feat._Mýa)_Dionne_Warwick.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Close To You (feat. Mimi Maura)",
+      "artist": "Dancing Mood",
+      "has_synced": false,
+      "path": "select/07_Close_To_You_(feat._Mimi_Maura)_Dancing_Mood.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Close To You (feat Jan Johnsto",
+      "artist": "Tiesto",
+      "has_synced": false,
+      "path": "select/08_Close_To_You_(feat_Jan_Johnsto_Tiesto.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Close to You (feat. Alex Miseda)",
+      "artist": "Sabi Wu",
+      "has_synced": true,
+      "path": "select/09_Close_to_You_(feat._Alex_Miseda)_Sabi_Wu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Close To You (feat. Domino)",
+      "artist": "Constantin",
+      "has_synced": true,
+      "path": "select/10_Close_To_You_(feat._Domino)_Constantin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Close to You (feat. PollyAnna)",
+      "artist": "Steve Aoki",
+      "has_synced": true,
+      "path": "select/11_Close_to_You_(feat._PollyAnna)_Steve_Aoki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Close to You (feat. CLOSR)",
+      "artist": "SRTW",
+      "has_synced": true,
+      "path": "select/12_Close_to_You_(feat._CLOSR)_SRTW.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Close To You (feat. Dynamic Duo)",
+      "artist": "Fly to the Sky",
+      "has_synced": true,
+      "path": "select/13_Close_To_You_(feat._Dynamic_Duo)_Fly_to_the_Sky.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Close to You Feat Heidi Degn",
+      "artist": "DJ Aligator",
+      "has_synced": true,
+      "path": "select/14_Close_to_You_Feat_Heidi_Degn_DJ_Aligator.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Close to You (feat. Charlie McCabe)",
+      "artist": "Zaska",
+      "has_synced": false,
+      "path": "select/15_Close_to_You_(feat._Charlie_McCabe)_Zaska.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(They Long to Be) Close to You [feat. Gerald Levert]",
+      "artist": "Tamia",
+      "has_synced": true,
+      "path": "select/16_(They_Long_to_Be)_Close_to_You_[feat._Gerald_Levert]_Tamia.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Close to You (feat. PollyAnna)",
+      "artist": "Brennan Heart",
+      "has_synced": true,
+      "path": "select/17_Close_to_You_(feat._PollyAnna)_Brennan_Heart.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Close To You feat. 舞花",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_Close_To_You_feat._舞花_LGYankees.txt"
+    }
+  ]
+}
